@@ -1,20 +1,18 @@
 <div align="center">
 
-<img src="assets/banner.svg" alt="Sakib Sarker — SEO and AI Search Expert" width="100%"/>
+# Sakib Sarker
 
-<br/>
+### SEO & AI Search (GEO/AEO) Consultant
 
-**Content-first SEO and AI search optimization for businesses that want to be found, trusted, and recommended.**
+Content-first SEO for ecommerce brands, SaaS companies, agencies, and creators.<br>
+Visibility on Google and in AI-generated answers.
 
-<br/>
+![Experience](https://img.shields.io/badge/Experience-7%2B%20Years-1f2937?style=flat-square)
+![Projects](https://img.shields.io/badge/Projects-2%2C000%2B-1f2937?style=flat-square)
+![Approach](https://img.shields.io/badge/Approach-White--Hat%20Only-1f2937?style=flat-square)
+![Focus](https://img.shields.io/badge/Focus-SEO%20%C2%B7%20GEO%20%C2%B7%20AEO-1f2937?style=flat-square)
 
-![Experience](https://img.shields.io/badge/Experience-7%2B_Years-1D4ED8?style=flat-square)
-![Projects](https://img.shields.io/badge/Projects_Delivered-2%2C000%2B-1D4ED8?style=flat-square)
-![Methodology](https://img.shields.io/badge/Methodology-White--Hat-15803D?style=flat-square)
-![AI Search](https://img.shields.io/badge/AI_Search-GEO_%7C_AEO-7C3AED?style=flat-square)
-![Availability](https://img.shields.io/badge/Availability-Open_for_Projects-15803D?style=flat-square)
-
-[Overview](#overview) · [Services](#services) · [Methodology](#methodology) · [Results](#results) · [Engagement Models](#engagement-models) · [FAQ](#frequently-asked-questions) · [Contact](#contact)
+[Services](#services) · [Results](#selected-results) · [Engagement Options](#engagement-options) · [Process](#process) · [FAQ](#frequently-asked-questions) · [Contact](#contact)
 
 </div>
 
@@ -22,210 +20,209 @@
 
 ## Overview
 
-Sakib Sarker is an SEO and AI search specialist based in Dhaka, Bangladesh, serving ecommerce brands, SaaS companies, agencies, creators, and local businesses worldwide.
+Sakib Sarker is an SEO consultant based in Dhaka, Bangladesh, serving clients worldwide. Since 2019 he has delivered more than 2,000 SEO and content projects, most of them as long-term retainers.
 
-The practice is built on one principle: **content first, technical second.** Every engagement begins with search intent and content strategy, then adds the technical, structural, and off-page work required to rank on Google, YouTube, and AI answer engines such as ChatGPT, Gemini, Perplexity, and Google AI Overviews.
+The methodology is content-first: search intent and content quality come first, followed by the technical, structural, and off-page work required to rank and sustain those rankings. Since 2025, Generative Engine Optimization (GEO) and Answer Engine Optimization (AEO) are included in every engagement, so that content is discoverable on Google and citable by AI assistants such as ChatGPT, Gemini, and Perplexity.
 
-| Metric | Value |
-|:--|:--|
-| Experience | 7+ years |
-| Projects delivered | 2,000+ SEO and content projects |
-| Platforms | Shopify, WordPress, Webflow, Wix, Squarespace, YouTube |
-| Approach | White-hat only; no PBNs, no spam links |
-| Delivery | Direct; no account managers or outsourced writers |
+All work is performed directly by Sakib. There are no account managers, no outsourced writers, and no opaque reporting.
+
+| | |
+|---|---|
+| **Experience** | 7+ years (since 2019) |
+| **Delivered** | 2,000+ SEO and content projects |
+| **Platforms** | Shopify · WordPress · Webflow · Wix · Squarespace |
+| **Channels** | Google Search · YouTube · AI Search |
+| **Standards** | White-hat practices only; no PBNs, no link schemes |
 
 ---
 
 ## Services
 
+### Core SEO
+
 | Service | Scope |
-|:--|:--|
-| **Keyword Research and Competitor Analysis** | Search-intent mapping, difficulty-based prioritization, competitor gap reporting |
-| **Technical SEO** | Crawl and indexation, Core Web Vitals, canonicals, XML sitemaps, structured-data errors |
-| **Off-Page SEO and Link Building** | Relevance-first outreach, brand mentions, citations, digital PR |
-| **Shopify SEO** | Product and collection structure, Product and Offer schema, app-script cleanup, speed fixes |
-| **WordPress SEO** | Yoast and RankMath configuration, taxonomy cleanup, internal linking, WooCommerce fixes |
-| **Webflow and Squarespace SEO** | CMS collection SEO, metadata templating, URL and heading structure, injected schema |
-| **YouTube Video SEO** | Keyword-mapped titles, timestamped descriptions, chapters, tags, thumbnails |
-| **Generative Engine Optimization (GEO)** | Citable Q&A formatting, FAQ and HowTo schema, entity signals, brand consistency |
-| **Local SEO** | Google Business Profile, NAP consistency, local citations, map-pack ranking |
+|---|---|
+| **Keyword Research & Competitor Analysis** | Search-intent mapping across informational, commercial, and transactional queries; difficulty-based prioritization; competitor content-gap reporting. |
+| **Technical SEO** | Crawlability and indexation, Core Web Vitals, mobile usability, canonicalization, XML sitemaps, duplicate content, broken internal links, structured data validation. |
+| **On-Page & Content SEO** | Title and meta optimization, header structure, internal linking, content clusters, topical authority, and scheduled content refreshes. |
+| **Off-Page SEO & Link Building** | Relevance-led outreach, digital PR, brand mentions, and citations, aligned with Google's spam policies. |
+| **Local SEO** | Google Business Profile optimization, NAP consistency, citations, review strategy, local landing pages, and Bangla / Banglish / English keyword targeting. |
 
-### AI Optimization Framework
+### Platform Specializations
 
-AI visibility is built on five components that work together:
+| Platform | Focus |
+|---|---|
+| **Shopify** | Product and collection page structure, Product and Offer schema, image and speed optimization, third-party app script cleanup. |
+| **WordPress / WooCommerce** | Yoast and RankMath configuration, taxonomy cleanup, internal linking, shop and product page fixes. |
+| **Webflow** | Semantic structure, CMS collection SEO, metadata templating, URL slug standards, structured data. |
+| **Squarespace** | URL and heading structure, image compression, schema injection within template constraints. |
+| **Wix** | Platform-specific on-page and technical optimization. |
 
-| Component | Objective |
-|:--|:--|
-| Content | Clear, in-depth, structured answers to real user questions |
-| E-E-A-T | Demonstrated expertise, named authorship, reliable sources, current information |
-| Structured data | FAQ, Article, Organization, Product, and Review schema |
-| Technical foundation | Fast, mobile-friendly, secure, cleanly coded, well linked |
-| Authority | Quality backlinks, trusted mentions, original research and case studies |
+### Video & AI Search
 
----
+| Service | Scope |
+|---|---|
+| **YouTube Video SEO** | Keyword-mapped titles, timestamped descriptions, chapter markers, tags, and thumbnails optimized for YouTube search and AI video summaries. |
+| **GEO / AEO** | Answer-first content structure, FAQ and HowTo schema, entity definitions, and consistent brand facts across the web for reliable AI citation. |
+| **AI Optimization (AIO)** | AI-readable content, E-E-A-T signals, structured data (FAQ, Article, Organization, Product, Review), technical foundations, and authority building. |
 
-## Methodology
+### Recovery
 
-| Phase | Activity |
-|:--|:--|
-| **1. Find** | Identify high-value, low-competition keywords the audience actually searches |
-| **2. Analyze** | Assess competitors, technical gaps, and content opportunities |
-| **3. Target** | Build content and on-page structure around keywords that drive revenue |
-| **4. Rank** | Earn authority through backlinks and citations; track and refine |
-
-Each strategy audits four ranking-factor groups: content relevance, technical health, backlink authority, and user experience signals.
+Clean, white-hat rebuilds for sites affected by algorithm updates, toxic backlinks, thin or AI-generated content, or keyword stuffing.
 
 ---
 
-## Results
+## Client Profiles
 
-Figures are drawn from client Google Search Console, GA4, and Semrush dashboards. Client names are withheld.
-
-| Outcome | Result |
-|:--|:--|
-| Tracked keywords | 16 to 958 (+5,887%) |
-| Top 3 rankings | 4 to 60 keywords (+1,400%) |
-| Clicks, month over month | 490 to 4.04K (+724%) |
-| Impressions, month over month | 39.7K to 179K (+351%) |
-| Organic users, year over year | +90.6% |
-| Ecommerce revenue, year over year | +53% |
-| Large-scale content engagement | 1.33M clicks |
-| Q4 2025 versus prior year | 1.42M clicks, up from 958K |
-
-<details>
-<summary>Additional case highlights</summary>
-
-<br/>
-
-- Clicks up 179.7% and impressions up 98.4% in one month (23.6K to 66K clicks)
-- Google Business Profile: direction requests +34.8%, interactions +13.1%, website clicks +8.4%, calls +6.7%
-- Local map-pack heatmap shifted from mostly 20+ to top 3 across the service area
-- New market entry: clicks grew from 23 to 118 within three weeks
-- Traffic recovered and grew after transition from a previous agency
-- Authority Score of 24, organic traffic +22%, 225 referring domains
-
-</details>
+| Client | Typical objective |
+|---|---|
+| Ecommerce brands | Product and collection pages that rank and surface in AI shopping results |
+| Agencies | White-label or direct SEO subcontracting without in-house hiring |
+| SaaS and service businesses | High-intent commercial keywords, content depth, and AI citation |
+| Creators and YouTubers | Video SEO combined with a site that converts search traffic |
+| Local businesses | Map Pack rankings and Google Business Profile visibility |
+| Penalty recovery | Rebuilding trust after algorithm or manual-action impact |
 
 ---
 
-## Engagement Models
+## Process
 
-Projects are scoped after a short audit so that pricing reflects the work required.
+| Phase | Activities |
+|:---|---|
+| **1. Find** | Identify high-value, achievable keywords based on real search demand. |
+| **2. Analyze** | Assess competitors, technical gaps, and content opportunities. |
+| **3. Target** | Build content and on-page structure around keywords that drive revenue. |
+| **4. Rank** | Earn authority through backlinks and citations; track and refine continuously. |
 
-| | **Foundation SEO** | **Platform and Content SEO** | **SEO, Off-Page and AI Visibility** |
-|:--|:--:|:--:|:--:|
+Rankings are monitored across Google and AI search surfaces. Each client receives a documented roadmap and a plain-English monthly report covering work completed and its measured effect.
+
+---
+
+## Selected Results
+
+Figures are taken from Google Search Console, Google Analytics 4, and Semrush dashboards. Client names and domains are anonymized.
+
+| Engagement | Outcome |
+|---|---|
+| Ecommerce (GA4, YoY) | Organic users +90.6%, sessions +87.2%, ecommerce revenue +53% |
+| Keyword rankings (12 months) | Top 3 keywords grew from 4 to 60 (+1,400%); positions 4–10 grew +1,560% |
+| Keyword footprint | Tracked keywords grew from 16 to 958 (+5,887%) |
+| Search Console (month-over-month) | Clicks +724% (490 → 4.04K); impressions +351% (39.7K → 179K) |
+| Search Console (month-over-month) | Clicks +179.7% (23.6K → 66K); impressions +98.4% (988K → 1.96M) |
+| Large-scale content SEO | 1.33M clicks following the start of services |
+| Year-over-year, Q4 2025 | 1.42M clicks and 149M impressions, versus 958K clicks and 123M impressions prior year |
+| Local SEO (Map Pack) | Grid rankings moved from predominantly 20+ to top 3 across the service area |
+| Google Business Profile | Direction requests +34.8%, interactions +13.1%, website clicks +8.4%, calls +6.7% |
+| New market entry | Clicks grew from 23 to 118 within three weeks of targeting a new country |
+| Agency transition | Organic traffic restored and growing after taking over from a previous provider |
+
+> Outcomes depend on site history, competition, and starting position. Durable rankings typically develop over 3–6 months, and no specific position is guaranteed.
+
+---
+
+## Engagement Options
+
+Every engagement is scoped following a short audit so that pricing reflects the work required.
+
+| | Foundation | Growth | Full-Funnel |
+|---|:---:|:---:|:---:|
+| **Focus** | Core SEO | Platform + Content | SEO + Off-Page + AI Visibility |
 | **Investment** | **$300 / month** | **$800 / month** | **$1,500 / month** |
-| Keyword and competitor research | Included | Included | Included |
-| On-page SEO for key pages | Included | Included | Included |
-| Technical audit and fix list | Included | Included | Included |
-| Search Console setup | Included | Included | Included |
-| Platform-specific technical fixes | | Included | Included |
-| Content structure and optimization | | Included | Included |
-| Monthly ranking reports | | Included | Included |
-| White-hat backlink building | | | Included |
-| YouTube video SEO | | | Included |
-| GEO and AEO for AI search | | | Included |
+| Keyword and competitor research | ✓ | ✓ | ✓ |
+| On-page SEO for key pages | ✓ | ✓ | ✓ |
+| Technical audit and fix list | ✓ | ✓ | ✓ |
+| Search Console setup | ✓ | ✓ | ✓ |
+| Platform-specific technical fixes | | ✓ | ✓ |
+| Content structure and optimization | | ✓ | ✓ |
+| Monthly ranking reports | | ✓ | ✓ |
+| White-hat backlink building | | | ✓ |
+| YouTube video SEO | | | ✓ |
+| GEO / AEO for AI search | | | ✓ |
 
 ---
 
-## Clients
+## Working Model
 
-| Segment | Focus |
-|:--|:--|
-| Ecommerce brands | Shopify and WooCommerce product and collection performance |
-| Agencies | White-label or direct SEO subcontracting |
-| SaaS and service businesses | High-intent commercial keywords and AI citation |
-| Creators and YouTubers | Video SEO paired with converting content |
-| Local businesses | Google Business Profile and map-pack visibility |
-| Penalty recovery | Clean, white-hat rebuilds after poor past SEO |
+| Criterion | In-house / DIY | Typical agency | Direct engagement |
+|---|---|---|---|
+| Access to the specialist | Limited SEO expertise | Account manager intermediary | Direct, always |
+| Platform-specific fixes | Learned on the job | Varies by team | Included |
+| Technical audit depth | Surface-level | Varies by retainer | Full crawl and prioritized fix list |
+| Content strategy | Time-intensive | Frequently outsourced | Written and structured directly |
+| GEO / AEO | Rarely considered | Seldom offered | Core deliverable |
+| Reporting | Self-managed | Dashboard with limited context | Plain-English monthly reports |
+| Cost structure | Internal time | Flat retainer | Scoped to required work |
 
 ---
 
 ## Tools
 
-Google Search Console · Google Analytics 4 · Ahrefs · SEMrush · Screaming Frog · Google Keyword Planner · PageSpeed Insights · Schema Markup Validator · Yoast and RankMath · Google Business Profile · Looker Studio · ChatGPT and Gemini (GEO testing)
+| Category | Tools |
+|---|---|
+| Analytics and search data | Google Search Console, Google Analytics 4, Looker Studio |
+| Research and audits | Ahrefs, SEMrush, Screaming Frog, Google Keyword Planner |
+| Performance and markup | PageSpeed Insights, Schema Markup Validator |
+| CMS | Yoast SEO, RankMath |
+| Local | Google Business Profile |
+| AI search testing | ChatGPT, Gemini |
+
+---
+
+## Timeline
+
+| Year | Milestone |
+|:---:|---|
+| 2019 | Began freelancing in on-page SEO and keyword research for local businesses |
+| 2021 | Expanded into technical audits and multi-platform work (WordPress, Shopify, Webflow) |
+| 2023 | Added YouTube video SEO and white-hat backlink and citation building |
+| 2025–26 | Integrated GEO/AEO into every engagement as AI search became a primary discovery channel |
 
 ---
 
 ## Frequently Asked Questions
 
-<details>
-<summary>How long until ranking results appear?</summary>
+**How long until results are visible?**
+Measurable ranking movement typically appears within 60–90 days, with compounding growth thereafter. Durable rankings generally build over 3–6 months.
 
-<br/>
+**Are specific rankings guaranteed?**
+No. Any provider guaranteeing page-one placement within days is relying on high-risk tactics or overstating outcomes.
 
-Most clients see measurable movement within 60 to 90 days, with compounding growth afterward. Durable rankings typically build over three to six months.
+**How does GEO differ from SEO?**
+SEO targets visibility in search results. GEO structures content so AI assistants can understand, trust, and cite it within generated answers.
 
-</details>
+**Are international clients supported?**
+Yes. Clients span the US, UK, UAE, Canada, Australia, and other regions. All communication and reporting is in English.
 
-<details>
-<summary>What is the difference between SEO and GEO?</summary>
+**Is content written in-house?**
+Yes. Every brief and edit is handled directly by Sakib.
 
-<br/>
-
-SEO targets rankings on search results pages. GEO structures content so AI assistants can understand, trust, and cite it in generated answers. The two disciplines build on one another.
-
-</details>
-
-<details>
-<summary>Is SEO a one-time project?</summary>
-
-<br/>
-
-No. Algorithms, competitors, and customer behavior change continuously, so rankings require ongoing maintenance.
-
-</details>
-
-<details>
-<summary>Are international clients supported?</summary>
-
-<br/>
-
-Yes. Clients span the United States, United Kingdom, UAE, Canada, Australia, and Bangladesh. Reporting and calls are conducted in English.
-
-</details>
-
-<details>
-<summary>Who writes the content?</summary>
-
-<br/>
-
-Every brief and edit is handled directly, which keeps quality consistent across the project.
-
-</details>
-
----
-
-## Repository Structure
-
-```text
-.
-├── README.md          Project overview
-├── index.html         Animated single-page website (no build step)
-└── assets/
-    └── banner.svg     Animated README banner
-```
-
-To preview locally, open `index.html` in a browser. To publish, enable GitHub Pages under **Settings → Pages**.
+**Can sites affected by a Google update be recovered?**
+Yes. Recovery begins with an audit and remediation of thin content and low-quality links, followed by a sustainable rebuild.
 
 ---
 
 ## Contact
 
+To request a free audit, send your website URL and a brief description of your goals.
+
 | | |
-|:--|:--|
+|---|---|
 | **Email** | [asakibsarker@gmail.com](mailto:asakibsarker@gmail.com) |
-| **Location** | Dhaka, Bangladesh (working worldwide) |
-| **Free audit** | Send your website URL by email for a ranking and AI-visibility assessment |
+| **Location** | Dhaka, Bangladesh (serving clients worldwide) |
+| **Status** | Currently accepting new projects |
+
+WhatsApp and Google Business Profile links are available on the website.
 
 ---
 
-## Privacy
+## Privacy Policy
 
-This website collects only information that a visitor chooses to share directly, such as by email or WhatsApp. No personal data is sold or shared with third parties. Aggregated, privacy-respecting analytics may be used to understand overall traffic. Information shared through contact links is used solely to respond to the inquiry. To request deletion, contact asakibsarker@gmail.com.
+Only information that a visitor chooses to share directly (for example, by email or WhatsApp) is collected. No personal data is sold or shared with third parties. Aggregated, privacy-respecting analytics may be used to improve the site and are not used to identify individual visitors. Information submitted through contact channels is used solely to respond to the inquiry. To request deletion of submitted information, contact [asakibsarker@gmail.com](mailto:asakibsarker@gmail.com).
 
 ---
 
 <div align="center">
-<sub>© 2026 Sakib Sarker · SEO and AI Search Expert · White-hat, always.</sub>
+
+© 2026 Sakib Sarker · SEO & AI Search Consultant · Bangladesh
+
 </div>
