@@ -8,7 +8,7 @@
 
 <br/>
 
-<img src="assets/banner.png" width="100%" alt="SEO, AEO and GEO Expert - Helping businesses rank on Google and AI Search"/>
+<img src="BANNER_LINK_HERE" width="100%" alt="SEO, AEO and GEO Expert - Helping businesses rank on Google and AI Search"/>
 
 <br/>
 
@@ -36,7 +36,7 @@
 
 ## 👨‍💻 About Me
 
-<img src="assets/sakib-sarker.jpg" align="right" width="220" alt="Sakib Sarker - SEO Expert"/>
+<img src="PHOTO_LINK_HERE" align="right" width="220" alt="Sakib Sarker - SEO Expert"/>
 
 I'm an SEO expert based in Bangladesh. For more than seven years I've helped e-commerce brands, SaaS companies, agencies, local businesses, and creators get found by the people who are actually searching for them. So far that adds up to **2,000+ SEO and content projects**.
 
