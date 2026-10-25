@@ -14,7 +14,7 @@
 
 ---
 
-## PROFESSIONAL PROFILE
+## PROFILE
 
 I'm **Sakib Sarker**, an SEO specialist based in Bangladesh, helping businesses, eCommerce brands, SaaS companies, agencies, and creators establish stronger search visibility and sustainable organic growth.
 
@@ -26,7 +26,7 @@ I believe effective SEO requires more than isolated optimizations. It requires a
 
 **My focus is to turn search visibility into meaningful business opportunities through strategic, sustainable, and data-informed SEO.**
 
-## PROFESSIONAL HIGHLIGHTS
+## HIGHLIGHTS
 
 <p align="center">
   <img src="https://img.shields.io/badge/EXPERIENCE-7%2B%20YEARS-1D4ED8?style=for-the-badge" alt="7+ Years of Experience"/>
@@ -43,7 +43,7 @@ I believe effective SEO requires more than isolated optimizations. It requires a
 | Authority Development | Relevant link building and digital citations |
 | Performance Analysis | Google Search Console, Google Analytics 4 |
 
-## CORE EXPERTISE
+## MY EXPERTISE
 
 ### Search Engine Optimization
 
