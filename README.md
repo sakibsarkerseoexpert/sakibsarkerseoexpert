@@ -97,7 +97,7 @@ I believe effective SEO requires more than isolated optimizations. It requires a
 
 `Schema Markup` · `XML Sitemaps` · `Robots.txt` · `Canonicalization` · `Redirect Management` · `Indexation` · `Core Web Vitals` · `Internal Linking`
 
-## PROFESSIONAL JOURNEY
+## MY SEO JOURNEY
 
 | Period | Milestone |
 |:---|:---|
