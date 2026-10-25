@@ -1,130 +1,100 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0f2027,50:203a6b,100:7c3aed&height=260&section=header&text=Sakib%20Sarker&fontSize=64&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Digital%20Marketing%20Consultant%20%E2%80%A2%20SEO%20%7C%20AEO%20%7C%20GEO%20Specialist&descSize=18&descAlignY=58" width="100%" alt="Sakib Sarker"/>
+# Sakib Sarker
 
-<a href="https://www.linkedin.com/in/sakib-sarker-seo-expert/">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=760&height=50&lines=7%2B+Years+of+SEO+Experience;2%2C000%2B+Projects+Completed;Answer+Engine+Optimization+(AEO);Generative+Engine+Optimization+(GEO);Helping+Brands+Get+Found+on+Google+%26+AI" alt="Typing animation"/>
-</a>
+**SEO Expert · AEO & GEO Specialist · Digital Marketing Consultant**
 
-<br/>
+📍 Bangladesh  |  🗓️ 7+ Years Experience  |  ✅ 2,000+ Projects Completed
 
-<a href="https://www.linkedin.com/in/sakib-sarker-seo-expert/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0b1020" alt="LinkedIn"/></a>
-<a href="https://www.instagram.com/sakib_sarker_seo_expert/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=0b1020" alt="Instagram"/></a>
-<a href="https://www.facebook.com/sakibsarkerseoexpert"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white&labelColor=0b1020" alt="Facebook"/></a>
-<a href="https://medium.com/@sakibsarkerseoexpert"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white&labelColor=0b1020" alt="Medium"/></a>
+[LinkedIn](https://www.linkedin.com/in/sakib-sarker-seo-expert/) · [Medium](https://medium.com/@sakibsarkerseoexpert) · [Instagram](https://www.instagram.com/sakib_sarker_seo_expert/) · [Facebook](https://www.facebook.com/sakibsarkerseoexpert)
 
-<br/><br/>
-
-<img src="https://img.shields.io/badge/Experience-7%2B%20Years-22d3ee?style=for-the-badge&labelColor=0b1020" alt="Experience"/>
-<img src="https://img.shields.io/badge/Projects-2%2C000%2B-a78bfa?style=for-the-badge&labelColor=0b1020" alt="Projects"/>
-<img src="https://img.shields.io/badge/AI%20Search-GEO%20%2B%20AEO-f5c26b?style=for-the-badge&labelColor=0b1020" alt="AI Search"/>
-<img src="https://img.shields.io/badge/Based%20in-Bangladesh-10b981?style=for-the-badge&labelColor=0b1020" alt="Location"/>
+<!-- Add your email / website here, for example:
+📧 [your@email.com](mailto:your@email.com) · 🌐 [yourwebsite.com](https://yourwebsite.com)
+-->
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=2&section=header" width="100%" alt=""/>
+---
 
-## 👨‍💻 About Me
+# About me
 
-SEO expert based in Bangladesh with **7+ years of experience** and **2,000+ SEO and content projects** completed for e-commerce brands, SaaS companies, agencies, local businesses, and creators.
+I'm an SEO expert based in Bangladesh. For more than seven years I've helped e-commerce brands, SaaS companies, agencies, local businesses, and creators get found by the people who are actually searching for them. So far that adds up to more than 2,000 SEO and content projects.
 
-I help businesses get found, both by people searching on Google and, increasingly, by AI models answering questions directly (ChatGPT, Gemini, and others).
+My approach starts with content and search intent, then builds the technical, structural, and off-page work on top so the content can rank and keep ranking. I've worked across WordPress, Shopify, WooCommerce, Webflow, Wix, and Squarespace, and across YouTube SEO as well. More recently I've made **Answer Engine Optimization (AEO)** and **Generative Engine Optimization (GEO)** part of every engagement, because people now ask ChatGPT, Gemini, and other AI tools for recommendations, and businesses need to show up there too.
 
-> 💬 *"Clear structure, genuinely useful content, credible signals, and links earned through relevance, not volume."*
+Most of my work is long-term retainers rather than one-off audits. I stay on to track algorithm updates, refresh underperforming pages, and adjust the strategy as Google's results and AI answer engines change. Many clients come to me after being burned by keyword-stuffing "SEO experts" who left behind thin content and toxic backlinks. In those cases I clean that up first, then build sustainably on top of it.
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=2&section=header" width="100%" alt=""/>
+I work directly with every client. There are no account managers, no outsourced writers, and no black-box reporting. Every deliverable is something I did myself and can explain line by line.
 
-## 🚀 What I Do
+---
 
-| | Service | Details |
-| :---: | :--- | :--- |
-| 🔍 | **Search Engine Optimization** | Technical audits, on-page SEO, off-page link building, local SEO, e-commerce optimization |
-| 🤖 | **AI Search Optimization** | Answer Engine Optimization (AEO) and Generative Engine Optimization (GEO) |
-| ▶️ | **YouTube SEO** | Video optimization for discovery and ranking |
-| 📊 | **Paid Ads & Analytics** | Google Ads, Meta Ads, YouTube Ads, Performance Max, Conversion API, GA4, GTM |
+# 📊 At a Glance
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=2&section=header" width="100%" alt=""/>
+| | |
+| :--- | :--- |
+| **Experience** | 7+ years in SEO |
+| **Projects** | 2,000+ SEO and content projects completed |
+| **Core focus** | Technical SEO, content and search intent, local and e-commerce SEO, AEO and GEO |
+| **Platforms** | WordPress, Shopify, WooCommerce, Webflow, Wix, Squarespace |
+| **Engagement** | Long-term retainers, audits, and cleanups |
+| **Working style** | Direct, hands-on, fully transparent reporting |
 
-## 📈 What I Offer
+---
 
-- 🔍 Comprehensive technical and on-page SEO audits
-- 🎯 Keyword research and competitor strategy
-- ⚙️ Local SEO and Google Business Profile optimization
-- 🤖 Generative Engine Optimization (GEO) for AI search visibility
-- 📊 End-to-end campaign setup and tracking (GA4 + GTM)
+# 🔍 SEO Services
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=2&section=header" width="100%" alt=""/>
+- **Technical SEO:** site audits, crawl and indexing fixes, Core Web Vitals, site structure, and schema markup.
+- **On-Page & Content SEO:** keyword research, search-intent mapping, content optimization, and internal linking.
+- **Off-Page SEO:** white-hat link building, citations, and authority growth built on relevance, not volume.
+- **Local SEO:** Google Business Profile optimization, local citations, and map-pack visibility.
+- **E-commerce SEO:** category, product, and store-structure optimization for Shopify and WooCommerce.
+- **YouTube SEO:** keyword targeting, titles, and descriptions to help videos rank and get discovered.
+- **AEO & GEO:** making your brand easier for AI assistants and answer engines to find, understand, and recommend.
+- **SEO Tracking & Reporting:** GA4, Google Search Console, and Google Tag Manager setup for clear, measurable results.
 
-## 🛠️ SEO & Marketing Stack
+---
 
-<div align="center">
+# 🧭 How I Work
 
-<img src="https://img.shields.io/badge/Ahrefs-FF7A00?style=for-the-badge&labelColor=0b1020" alt="Ahrefs"/>
-<img src="https://img.shields.io/badge/SEMrush-FF642D?style=for-the-badge&labelColor=0b1020" alt="SEMrush"/>
-<img src="https://img.shields.io/badge/Moz%20Pro-4DB6E9?style=for-the-badge&labelColor=0b1020" alt="Moz Pro"/>
-<img src="https://img.shields.io/badge/Search%20Console-4285F4?style=for-the-badge&logo=google&logoColor=white&labelColor=0b1020" alt="Search Console"/>
-<img src="https://img.shields.io/badge/Screaming%20Frog-6BA539?style=for-the-badge&labelColor=0b1020" alt="Screaming Frog"/>
-<img src="https://img.shields.io/badge/Surfer%20SEO-6C47FF?style=for-the-badge&labelColor=0b1020" alt="Surfer SEO"/>
-<img src="https://img.shields.io/badge/Ubersuggest-FF6B35?style=for-the-badge&labelColor=0b1020" alt="Ubersuggest"/>
-<br/>
-<img src="https://img.shields.io/badge/GA4-E37400?style=for-the-badge&logo=googleanalytics&logoColor=white&labelColor=0b1020" alt="GA4"/>
-<img src="https://img.shields.io/badge/Tag%20Manager-246FDB?style=for-the-badge&logo=googletagmanager&logoColor=white&labelColor=0b1020" alt="Tag Manager"/>
-<img src="https://img.shields.io/badge/Google%20Ads-4285F4?style=for-the-badge&logo=googleads&logoColor=white&labelColor=0b1020" alt="Google Ads"/>
-<img src="https://img.shields.io/badge/Meta%20Ads-0866FF?style=for-the-badge&logo=meta&logoColor=white&labelColor=0b1020" alt="Meta Ads"/>
-<img src="https://img.shields.io/badge/PageSpeed-4285F4?style=for-the-badge&logo=pagespeedinsights&logoColor=white&labelColor=0b1020" alt="PageSpeed Insights"/>
-<img src="https://img.shields.io/badge/GTmetrix-1E88E5?style=for-the-badge&labelColor=0b1020" alt="GTmetrix"/>
-<img src="https://img.shields.io/badge/Schema%20Markup-6C47FF?style=for-the-badge&logo=schemadotorg&logoColor=white&labelColor=0b1020" alt="Schema Markup"/>
-<br/>
-<img src="https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white&labelColor=0b1020" alt="WordPress"/>
-<img src="https://img.shields.io/badge/Shopify-7AB55C?style=for-the-badge&logo=shopify&logoColor=white&labelColor=0b1020" alt="Shopify"/>
-<img src="https://img.shields.io/badge/WooCommerce-96588A?style=for-the-badge&logo=woocommerce&logoColor=white&labelColor=0b1020" alt="WooCommerce"/>
-<img src="https://img.shields.io/badge/Webflow-146EF5?style=for-the-badge&logo=webflow&logoColor=white&labelColor=0b1020" alt="Webflow"/>
-<img src="https://img.shields.io/badge/Wix-0C6EFC?style=for-the-badge&logo=wix&logoColor=white&labelColor=0b1020" alt="Wix"/>
-<img src="https://img.shields.io/badge/Squarespace-222222?style=for-the-badge&logo=squarespace&logoColor=white&labelColor=0b1020" alt="Squarespace"/>
+1. **Clear site structure.** A clean, crawl-friendly foundation comes first.
+2. **Content mapped to real search intent.** Pages that answer what people are genuinely looking for.
+3. **Credible entity and schema signals.** Clear signals that search engines and AI systems can trust.
+4. **Links earned through relevance.** Authority built the right way, not through volume.
 
-</div>
+---
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=2&section=header" width="100%" alt=""/>
+# 🛠️ Tools & Platforms
 
-## 💡 My Approach
+**SEO tools:** Ahrefs, SEMrush, Moz Pro, Google Search Console, Screaming Frog, Surfer SEO, Ubersuggest
 
-I start with content and search intent, then layer on the technical, structural, and off-page work needed to rank and stay ranked.
+**Analytics & technical:** GA4, Google Tag Manager, PageSpeed Insights, GTmetrix, Schema Markup
 
-| Step | Focus |
-| :---: | :--- |
-| **01** | Clear site structure |
-| **02** | Genuinely useful content mapped to real search intent |
-| **03** | Credible entity and schema signals |
-| **04** | Links earned through relevance, not volume |
+**Platforms:** WordPress, Shopify, WooCommerce, Webflow, Wix, Squarespace
 
-Most of my work is long-term retainers. I stay on to track algorithm updates, refresh underperforming pages, and adjust strategy as Google's SERPs and AI answer engines evolve. Many clients arrive after bad experiences with keyword-stuffing "SEO experts", so I usually clean up thin content and toxic backlinks first, then build sustainably on top.
+---
 
-I work directly: **no account managers, no black-box reporting.** Every deliverable is something I've done myself and can explain line by line.
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=2&section=header" width="100%" alt=""/>
-
-## 🗓️ Journey
+# 🗓️ Journey
 
 | Year | Milestone |
-| :---: | :--- |
+| :--- | :--- |
 | **2019** | Started freelancing in on-page SEO and keyword research for local businesses |
-| **2021** | Expanded into technical SEO audits and multi-platform work (WordPress, Shopify, Webflow) |
-| **2023** | Added YouTube video SEO and white-hat backlink/citation building |
-| **2025–26** | Built GEO/AEO into every engagement as AI search became a core discovery channel |
+| **2021** | Expanded into technical SEO audits and multi-platform work across WordPress, Shopify, and Webflow |
+| **2023** | Added YouTube video SEO and white-hat backlink and citation building |
+| **2025–26** | Built GEO and AEO into every engagement as AI search became a core discovery channel |
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=2&section=header" width="100%" alt=""/>
+---
 
-## 🤝 Let's Work Together
+# 🤝 Let's Work Together
 
-Whether you're a Shopify store trying to outrank bigger competitors, a WooCommerce shop that needs technical cleanup, or a service business that wants to show up when someone asks an AI assistant for a recommendation, I'd love to help.
+If you run a Shopify store trying to outrank bigger competitors, a WooCommerce shop that needs technical cleanup, or a service business that wants to show up when someone asks an AI assistant for a recommendation, I'd be glad to help.
+
+- 💼 **LinkedIn:** [sakib-sarker-seo-expert](https://www.linkedin.com/in/sakib-sarker-seo-expert/)
+- ✍️ **Medium:** [@sakibsarkerseoexpert](https://medium.com/@sakibsarkerseoexpert)
+- 📸 **Instagram:** [@sakib_sarker_seo_expert](https://www.instagram.com/sakib_sarker_seo_expert/)
+- 👍 **Facebook:** [sakibsarkerseoexpert](https://www.facebook.com/sakibsarkerseoexpert)
 
 <div align="center">
 
-<a href="https://www.linkedin.com/in/sakib-sarker-seo-expert/"><img src="https://img.shields.io/badge/CONNECT%20ON%20LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0b1020" alt="Connect on LinkedIn"/></a>
-<a href="https://medium.com/@sakibsarkerseoexpert"><img src="https://img.shields.io/badge/READ%20MY%20ARTICLES-12100E?style=for-the-badge&logo=medium&logoColor=white&labelColor=0b1020" alt="Read on Medium"/></a>
-<a href="https://www.instagram.com/sakib_sarker_seo_expert/"><img src="https://img.shields.io/badge/FOLLOW%20ON%20INSTAGRAM-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=0b1020" alt="Follow on Instagram"/></a>
-<a href="https://www.facebook.com/sakibsarkerseoexpert"><img src="https://img.shields.io/badge/MESSAGE%20ON%20FACEBOOK-1877F2?style=for-the-badge&logo=facebook&logoColor=white&labelColor=0b1020" alt="Message on Facebook"/></a>
+© 2026 Sakib Sarker
 
 </div>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" width="100%" alt=""/>
